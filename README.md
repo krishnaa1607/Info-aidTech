@@ -9,12 +9,14 @@ Task1: Landing Page
 
 ![Screenshot (13)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/f50c03bc-c536-4427-9ebc-86de6a355231)
 
+
 Task2: Calculator
 -Creating a basic calculator using CSS, HTML, and JavaScript.
 
 #Output
 
 ![Screenshot (14)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/76076abc-ec29-461b-8a9c-7432db4fdc23)
+
 
 Task3: Temperature Converter
 -It is a simple web page using HTML, CSS, JavaScript which converts temperature from Celcius to Fahrenheit, Fahrenheit to Kelvin etc.. etc..
@@ -23,6 +25,7 @@ Task3: Temperature Converter
 
 ![Screenshot (22)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/ea95efed-d616-48e5-a386-3d5b53e999b1)
 
+
 Task4: Resturant Website
 -This is the clone of blueapron.com by using HTML & CSS.
 
@@ -30,15 +33,13 @@ About Blue Apron - Blue Apron Inc. is an American ingredient-and-recipe meal kit
 
 #Output
 
-![Screenshot (16)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/ac6ff0aa-523c-4e5b-af90-5938a8797e46)
+![Screenshot (28)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/24853b44-2f82-407f-9daa-b4fd384532ce)
+![Screenshot (29)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/04c99e70-1faf-4833-acc4-8228ae3cd53a)
+![Screenshot (30)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/9a980f33-3bfd-40e9-95b5-c09118a11143)
+![Screenshot (31)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/d17a25e8-b727-4b8e-a7ea-4bab0e1c40cf)
+![Screenshot (32)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/558963ca-ac88-4f4d-8d0a-b841fcb7b3f3)
+![Screenshot (33)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/c3132493-19b9-4de8-b8ea-73a824908a89)
+![Screenshot (34)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/31297eb0-df1c-4936-aebe-acbbe7a849c5)
+![Screenshot (35)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/e6ab264c-c769-4f8d-9219-1246b079d972)
 
-![Screenshot (17)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/2a79012d-dd4e-412d-b9ad-e7a9a8d31d51)
-
-![Screenshot (18)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/34cf0ff8-9bf5-43da-8b8e-46484a5d3d16)
-
-![Screenshot (19)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/f22fa067-15fb-4824-ba35-0716be490c62)
-
-![Screenshot (20)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/f7434de0-2084-4031-9457-a48f6697de7f)
-
-![Screenshot (21)](https://github.com/krishnaa1607/Info-aidTech/assets/141833441/af534f10-ad43-4c56-9959-123b6dca9cff)
 
